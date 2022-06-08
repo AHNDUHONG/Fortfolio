@@ -15,3 +15,14 @@
     * 교육 시간: 956시간, 총 956시간
     * 교육 내용: SQL 및 데이터베이스 모델링, 인공지능 프로그래밍, 웹&콘텐츠서비스 개발
     * [휴먼교육센터 교육 과정 및 정보](https://www.hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20210000328592&tracseTme=2&crseTracseSe=C0061&trainstCstmrId=#)
+
+### Ⅲ. 증명
+* 어학 능력
+  * HSK 6급 209점 / 2021.04.13 / HSK한국사무국
+  * OPIC Chinese IH / 2021.04.04 / ACTFL
+
+* 자격증
+  * 없음
+
+### Ⅳ. 경력
+ 1. 이비스스타일앰버서더호텔(명동)
