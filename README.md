@@ -55,5 +55,5 @@
  ### Ⅵ. 포트폴리오
   1. 프로젝트
   
-  👉 카카오톡 챗봇 프로젝트 -> [자세히 보기](https://github.com/AHNDUHONG/Kakaotalk_Chatbot_Finance)
-   * 사용언어: Python
+   👉 카카오톡 챗봇 프로젝트 -> [자세히 보기](https://github.com/AHNDUHONG/Kakaotalk_Chatbot_Finance)
+    * 사용언어: Python
