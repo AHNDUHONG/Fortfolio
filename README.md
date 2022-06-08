@@ -14,4 +14,4 @@
     * 기간: 2022.03.10 - 2022.08.30
     * 교육 시간: 956시간, 총 956시간
     * 교육 내용: SQL 및 데이터베이스 모델링, 인공지능 프로그래밍, 웹&콘텐츠서비스 개발
-    * 홈페이지: https://www.hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20210000328592&tracseTme=2&crseTracseSe=C0061&trainstCstmrId=#
+    * [휴먼교육센터 교육 과정 및 정보](https://www.hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20210000328592&tracseTme=2&crseTracseSe=C0061&trainstCstmrId=#)
