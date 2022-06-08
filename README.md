@@ -55,5 +55,12 @@
  ### Ⅵ. 포트폴리오
   #### 1. 프로젝트
    #### 🐤카카오톡 챗봇 프로젝트 -> [자세히 보기](https://github.com/AHNDUHONG/Kakaotalk_Chatbot_Finance)
-    * 
-   
+   * 사용언어: Python
+   * 작업 툴: PostgreSQL, VSCode, Heroku, Kakaotalk Openbuilder
+   * 인원: 4명
+   * 내용:
+    * 휴먼교육센터학원 주최 카카오톡 챗봇 제작 및 발표
+    * 여러 기업체 상무님 및 CEO 직급의 멘토들의 피드백 확인 및 수정
+   * 선정 주제:
+    * "주식 입문자를 위한 챗봇"
+   * 기여: 데이터 수집, 카카오톡 스킬 구현, DB 구축, PPT 제작 및 발표
